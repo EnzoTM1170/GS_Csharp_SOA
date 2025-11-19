@@ -140,7 +140,7 @@ MindCare/
 
 ## 🛠️ Como Executar
 ### Clique aqui para saber como executar 👇👇
-https://github.com/EnzoTM1170/GS-C-SOA/blob/f3884474aa4849b82183f9dc5d7342155606d3c1/COMO_EXECUTAR.md
+https://github.com/EnzoTM1170/GS_Csharp_SOA/blob/e9025d6328735750d444126e9865e49ecff158c4/COMO_EXECUTAR.md
 
 ## 📊 Funcionalidades
 
@@ -232,6 +232,7 @@ Este projeto atende aos requisitos de duas disciplinas:
 ---
 
 **Desenvolvido com ❤️ para promover bem-estar no ambiente corporativo**
+
 
 
 
