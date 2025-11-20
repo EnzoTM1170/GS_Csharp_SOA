@@ -74,7 +74,7 @@ Dados de exemplo serão populados automaticamente incluindo:
 1. A aplicação deve abrir automaticamente
 2. Você deve ver a tela de Dashboard com dados populados
 
-## Solução de Problemas
+## Solução de problemas 
 
 ### Erro: "dotnet não é reconhecido"
 - Instale o .NET SDK 8.0: https://dotnet.microsoft.com/download/dotnet/8.0
@@ -101,6 +101,7 @@ Dados de exemplo serão populados automaticamente incluindo:
 <img width="1365" height="744" alt="image" src="https://github.com/user-attachments/assets/af6e3426-050b-4793-a90c-10d46fde82bf" />
 
 <img width="1365" height="720" alt="image" src="https://github.com/user-attachments/assets/2e2f0537-099e-481b-8e8a-0c62e3939a58" />
+
 
 
 
