@@ -89,5 +89,21 @@ Dados de exemplo serão populados automaticamente incluindo:
 2. Verifique a URL em `MindCare.WPF/Services/ApiService.cs`
 3. Por padrão: `http://localhost:5000/api`
 
+<img width="1366" height="746" alt="image" src="https://github.com/user-attachments/assets/261e3d17-4e3b-43cf-a3d8-6676e761bef7" />
+
+<img width="1366" height="743" alt="image" src="https://github.com/user-attachments/assets/930f5418-9fa9-4514-bf9e-7b7cb9e98e16" />
+
+<img width="1366" height="744" alt="image" src="https://github.com/user-attachments/assets/da006e05-47f9-43b8-9f64-3c2ddc92506f" />
+
+<img width="1365" height="744" alt="image" src="https://github.com/user-attachments/assets/af6e3426-050b-4793-a90c-10d46fde82bf" />
+
+<img width="1365" height="720" alt="image" src="https://github.com/user-attachments/assets/2e2f0537-099e-481b-8e8a-0c62e3939a58" />
+
+
+
+
+
+
 ### Erro de Certificado SSL
 - Sem necessidade quando usar HTTP (porta 5000). Se habilitar HTTPS, aceite o certificado.
+
